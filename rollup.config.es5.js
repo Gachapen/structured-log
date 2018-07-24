@@ -4,7 +4,7 @@ export default {
   input: 'src/index.ts',
   output: {
     format: 'umd',
-    file: 'dist/structured-log.js'
+    file: 'dist/structured-log.bundle.js'
   },
   plugins: [typescript({
     target: 'es5',

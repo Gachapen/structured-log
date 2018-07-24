@@ -4,7 +4,7 @@ export default {
   input: 'src/index.ts',
   output: {
     format: 'es',
-    file: 'dist/structured-log.es6.js'
+    file: 'dist/structured-log.es6.bundle.js'
   },
   plugins: [typescript({
     target: 'es6',

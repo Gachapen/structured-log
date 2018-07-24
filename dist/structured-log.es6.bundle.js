@@ -829,4 +829,4 @@ function configure() {
 }
 
 export { configure, LoggerConfiguration, LogEventLevel, Logger, ConsoleSink, BatchedSink, DynamicLevelSwitch };
-//# sourceMappingURL=structured-log.es6.js.map
+//# sourceMappingURL=structured-log.es6.bundle.js.map
